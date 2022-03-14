@@ -1,3 +1,3 @@
 ### week2筆記
 
-{% https://raw.githubusercontent.com/ayd0122344/ai110HW/main/week2/week2note.pdf %}
+{%pdf https://drive.google.com/file/d/1MFx_nubcT7RZtHeW2NZUCVmXjgoqRY8L/view?usp=sharing %}
