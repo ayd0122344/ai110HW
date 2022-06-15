@@ -5,3 +5,5 @@
 1. [week2筆記on github](https://github.com/ayd0122344/ai110HW/blob/main/week2/week2note.pdf)
 
 2. [week2筆記on Google Drive](https://drive.google.com/file/d/1MFx_nubcT7RZtHeW2NZUCVmXjgoqRY8L/view?usp=sharing)
+
+![image](https://github.com/ayd0122344/ai110HW/blob/main/week2/note_img/week2note_page-0005.jpg)
